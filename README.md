@@ -4,6 +4,7 @@ Teste Tetra Tech IBGE
 ### Projeto Maven
 Back-end:
 - Spring Boot v.2.4.2;
+- Java 8;
 
 Documentação Serviços:
 - Swagger v.2.9.2
